@@ -1,0 +1,4 @@
+C:\Users\chris.patron\Documents\GitHub\BGPwCSharp\OptionalWork\Week1\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\chris.patron\Documents\GitHub\BGPwCSharp\OptionalWork\Week1\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\chris.patron\Documents\GitHub\BGPwCSharp\OptionalWork\Week1\Lab3\Lab3\obj\x86\Debug\Lab3.exe
+C:\Users\chris.patron\Documents\GitHub\BGPwCSharp\OptionalWork\Week1\Lab3\Lab3\obj\x86\Debug\Lab3.pdb
